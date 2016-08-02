@@ -11,8 +11,8 @@ auth: ZHTan
 email: phantatojames@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   I’m a college student majoring in Information and Computing science and this is a blog recording my leetcode solutions.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "Phantato.github.io/leetcodeSolution" # the base hostname & protocol for your site
+baseurl: "/leetcodeSolution" # the subpath of your site, e.g. /blog
+url: "Phantato.github.io" # the base hostname & protocol for your site
 # twitter_username: jekyllrb
 github_username:  Phantato
 
