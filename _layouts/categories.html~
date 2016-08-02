@@ -1,0 +1,13 @@
+---
+layout: default
+---
+
+<link rel="stylesheet" href="{{"/css/categoryAnime.css" | prepend: site.baseurl }}">
+
+<article class="post">
+  <div class="post-content">
+    {{ content }}
+  </div>
+</article>
+
+{% include categoryAnime.js %}
